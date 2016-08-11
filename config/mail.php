@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'from' => ['address' => 'admin@wadd.me', 'name' => 'admin diglib'],
+    'from' => ['address' => 'admin@localhost', 'name' => 'admin diglib'],
 
     /*
     |--------------------------------------------------------------------------
